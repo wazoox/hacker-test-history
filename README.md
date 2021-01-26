@@ -851,7 +851,11 @@ By [1985](http://www.mkomo.com/cost-per-gigabyte) hard drives were under $100/mb
 ## Historical
 ####  011B Have you ever toggled in boot code on the front panel?
 
+On large computer of yore (up and including the Altair and the IMSAI) you could boot the computer by entering doce word by word with the front panel keys.
+
 ####  011C ... from memory?
+
+This is a reference to Seymour Cray booting the CDC 6600 for the first time from memory, using the keys, back in 1964.
 
 ####  011D Can you program an Eniac?
 
